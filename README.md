@@ -1,4 +1,4 @@
-# food-mining-and-recommendation
+# food-analysis-and-recommendation
 
 [Dataset](http://www.ub.edu/cvub/recipes5k/)
 
